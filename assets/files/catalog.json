@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Product1",
+            "desc": "This is the best phone you can think of to be existing in this universe.",
+            "price": 2300,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdcZhnv6JL072NiJRGw4OjxenD5O-B-Wx1Q&usqp=CAU",
+            "color": "cdeaff"
+        },
+        {
+            "id": 2,
+            "name": "Product2",
+            "desc": "This is also the best phone",
+            "price": 2200,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd0rXa0bpvY9bhyzLied8icd1RbGp3MjK_yA&usqp=CAU",
+            "color": "cdebff"
+        },
+        {
+            "id": 3,
+            "name": "Product3",
+            "desc": "This is another best phone",
+            "price": 2700,
+            "image": "https://www.zdnet.com/a/hub/i/r/2021/01/07/a20ae151-6384-47c4-a75e-802455021c41/resize/1200xauto/f3b5ada55311ccd647c97aa939fda7a3/apple-iphone-12-best-phones-review.png",
+            "color": "bdeaff"
+        },
+        {
+            "id": 4,
+            "name": "Product4",
+            "desc": "This is best budget phone",
+            "price": 700,
+            "image": "https://www.lavamobiles.com/Product/z66/images/z66_bigger_experience-m.png",
+            "color": "bdeaaf"
+        },
+        {
+            "id": 5,
+            "name": "Product5",
+            "desc": "This is good budget phone",
+            "price": 900,
+            "image": "https://cdn.imgbin.com/2/24/4/imgbin-alcatel-mobile-smartphone-bic-phone-android-telephone-smartphone-LwU7bjNy5QBsfA0dv6G9Jzxtm.jpg",
+            "color": "bdeccf"
+        },
+        {
+            "id": 6,
+            "name": "Product6",
+            "desc": "This is not a good budget phone",
+            "price": 1900,
+            "image": "https://cdn.imgbin.com/2/24/4/imgbin-alcatel-mobile-smartphone-bic-phone-android-telephone-smartphone-LwU7bjNy5QBsfA0dv6G9Jzxtm.jpg",
+            "color": "bdecdf"
+        }
+    ]
+}
