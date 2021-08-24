@@ -7,12 +7,18 @@ class MyTheme {
         fontFamily: GoogleFonts.poppins().fontFamily,
         appBarTheme: AppBarTheme(
             color: Colors.white,
-            iconTheme: IconThemeData(color: Colors.black),
+            iconTheme: IconThemeData(color: Colors.deepPurple),
             textTheme: Theme.of(context).textTheme),
       );
 
   static ThemeData darkTheme(BuildContext context) => ThemeData(
-        brightness: Brightness.dark,
+        cardColor: Colors.grey[600],
+        canvasColor: Colors.black87,
+        fontFamily: GoogleFonts.poppins().fontFamily,
+        appBarTheme: AppBarTheme(
+            color: Colors.black,
+            iconTheme: IconThemeData(color: Colors.white),
+            textTheme: Theme.of(context).textTheme),
       );
 
   //Colors
